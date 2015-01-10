@@ -7,7 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+<<<<<<< HEAD
 		2E2EED221A5DFC5600CA50BE /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2E2EED211A5DFC5600CA50BE /* MainViewController.m */; };
+=======
+>>>>>>> 50e901e128324bd18fd2e98801d8897e3833af45
 		71FE60CF1921DE340008A2FB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71FE60CE1921DE340008A2FB /* Foundation.framework */; };
 		71FE60D11921DE340008A2FB /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71FE60D01921DE340008A2FB /* CoreGraphics.framework */; };
 		71FE60D31921DE340008A2FB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 71FE60D21921DE340008A2FB /* UIKit.framework */; };
@@ -33,8 +36,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		2E2EED201A5DFC5600CA50BE /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
 		2E2EED211A5DFC5600CA50BE /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+=======
+>>>>>>> 50e901e128324bd18fd2e98801d8897e3833af45
 		71FE60CB1921DE340008A2FB /* GitReference.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitReference.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71FE60CE1921DE340008A2FB /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		71FE60D01921DE340008A2FB /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -114,8 +120,11 @@
 				71FE60DE1921DE340008A2FB /* GRAppDelegate.m */,
 				71FE60E01921DE340008A2FB /* Images.xcassets */,
 				71FE60D51921DE340008A2FB /* Supporting Files */,
+<<<<<<< HEAD
 				2E2EED201A5DFC5600CA50BE /* MainViewController.h */,
 				2E2EED211A5DFC5600CA50BE /* MainViewController.m */,
+=======
+>>>>>>> 50e901e128324bd18fd2e98801d8897e3833af45
 			);
 			path = GitReference;
 			sourceTree = "<group>";
@@ -246,7 +255,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				71FE60DB1921DE340008A2FB /* main.m in Sources */,
+<<<<<<< HEAD
 				2E2EED221A5DFC5600CA50BE /* MainViewController.m in Sources */,
+=======
+>>>>>>> 50e901e128324bd18fd2e98801d8897e3833af45
 				71FE60DF1921DE340008A2FB /* GRAppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -444,7 +456,10 @@
 				71FE60F91921DE340008A2FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+<<<<<<< HEAD
 			defaultConfigurationName = Release;
+=======
+>>>>>>> 50e901e128324bd18fd2e98801d8897e3833af45
 		};
 		71FE60FA1921DE340008A2FB /* Build configuration list for PBXNativeTarget "GitReferenceTests" */ = {
 			isa = XCConfigurationList;
@@ -453,7 +468,10 @@
 				71FE60FC1921DE340008A2FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+<<<<<<< HEAD
 			defaultConfigurationName = Release;
+=======
+>>>>>>> 50e901e128324bd18fd2e98801d8897e3833af45
 		};
 /* End XCConfigurationList section */
 	};
